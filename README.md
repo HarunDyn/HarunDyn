@@ -2,7 +2,7 @@
 
 ## I'm a Front End Developer and Lifelong Learner!
 
-- 🌱 I’m currently improving skills on full-stack development ( JavaScript | React | Python | Django)
+- 🌱 I’m currently improving skills on front-end development ( JavaScript | React | Python | Django)
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 Contributes Open Source projects.
 - ✍ Believes in the importance of learning new things every day.
