@@ -11,7 +11,7 @@
   <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<img src="./animation.gif" alt="react" width="20%" height="20%" align="left">
+<img src="./animation.gif" alt="react" width="22px"  align="left">
 
 <br>
 <br>
