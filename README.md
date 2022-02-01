@@ -3,7 +3,6 @@
 <hr>
 <br>
 
-<div>
 <a href="https://www.linkedin.com/in/harundayan/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,8 +11,7 @@
   <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<img src="./animation.gif" alt="react" width="20%" height="20%" align="right">
-</div>
+<img src="./animation.gif" alt="react" width="20%" height="20%" align="left">
 
 <br>
 <br>
