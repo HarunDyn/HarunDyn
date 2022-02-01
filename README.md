@@ -11,24 +11,12 @@
   <img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a>
-  <img align="left" alt="HD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-
-<a>
-  <img align="left" alt="HD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
-</a>
-
-<a>
-  <img align="left" alt="HD" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-<a>
-  
-<img width=130px align="left" src="https://github.com/ellerbrock/open-source-badges/blob/master/badges/open-source-v1/open-source-150x25.png?raw=true" />
-
 <br>
 <br>
 
 I am Software Developer💻. I have experience and lots of Interest in Full Stack Web Developement. Some technology I enjoy working with include React, Javascript, Django, Python, PostgreSQL etc.
+
+<br> <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 **Personal Stuffs:**
 
@@ -58,3 +46,7 @@ I am Software Developer💻. I have experience and lots of Interest in Full Stac
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br />
+
+[![Harun's Github Stats](https://github-readme-stats.vercel.app/api?username=HarunDyn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/HarunDyn)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarunDyn&show_icons=true&theme=dark)
