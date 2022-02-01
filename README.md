@@ -4,12 +4,12 @@
 <br>
 
 <code> <a href="https://www.linkedin.com/in/harundayan/">
-<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Linkedin" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a></code>
 <code><a href="https://github.com/HarunDyn">
-<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="github" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a> </code>
-<code><img src="./animation.gif" alt="react" width="40px"  align="left"> </code>
+<code><img src="./animation.gif" alt="react" width="50px"  align="left"> </code>
 
 <br>
 <br>
