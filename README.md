@@ -6,7 +6,7 @@
 <code> <a href="https://www.linkedin.com/in/harundayan/">
 <img align="left" alt="Linkedin" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a></code>
-<code><img src="./animation.gif" alt="react" width="50px"  align="left"> </code>
+<code><img src="./react.png" alt="react" width="40px"  align="left"> </code>
 <code><img src="./angular.png" alt="angular" width="40px"  align="left"> </code>
 
 <br>
