@@ -37,6 +37,7 @@ I am Software Developer💻. I have experience and lots of Interest in Full Stac
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=plastic&logo=material-UI)
