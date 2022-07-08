@@ -37,7 +37,6 @@ I am Software Developer💻. I have experience and lots of Interest in Full Stac
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=plastic&logo=material-UI)
@@ -46,6 +45,7 @@ I am Software Developer💻. I have experience and lots of Interest in Full Stac
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
