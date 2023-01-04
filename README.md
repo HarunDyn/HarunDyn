@@ -2,14 +2,6 @@
 
 <hr>
 <br>
-
-<code> <a href="https://www.linkedin.com/in/harundayan/">
-<img align="left" alt="Linkedin" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a></code>
-<code><img src="./react.png" alt="react" width="40px"  align="left"> </code>
-<code><img src="./angular.png" alt="angular" width="40px"  align="left"> </code>
-
-<br>
 <br>
 
 I am Software Developer💻. I have experience and lots of Interest in Full Stack Web Developement. Some technology I enjoy working with include React, Angular, Javascript, Typescript, Python etc.
